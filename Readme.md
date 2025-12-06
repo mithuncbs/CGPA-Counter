@@ -10,7 +10,7 @@ This project is a simple CGPA Counter System developed using the C programming l
 
 ###### **Design Decisions:**
 
-To organize the data properly, I used a structure (struct) to store each courses information. The structure contains three values: course name, credit hours, and obtained marks. Since each semester contains multiple courses, I used a 2D array of structures, where rows represent semesters and columns represent courses.
+To organize the data properly, we used a structure (struct) to store each courses information. The structure contains three values: course name, credit hours, and obtained marks. Since each semester contains multiple courses, I used a 2D array of structures, where rows represent semesters and columns represent courses.
 
 
 
@@ -54,6 +54,7 @@ This method ensures that semesters with more credits have a fair impact on the f
 ###### **Conclusion:**
 
 The CGPA Counter System is a practical tool for students and a strong demonstration of structured programming in C. The project uses modular functions, structures, loops, and arrays, which makes the code clean and easy to maintain.
+
 
 
 
